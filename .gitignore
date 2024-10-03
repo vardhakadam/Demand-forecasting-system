@@ -13,7 +13,6 @@ ENV/
 .venv/
 
 # Data files
-*.csv
 *.h5
 *.xlsx
 

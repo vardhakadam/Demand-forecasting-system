@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+
+# Data files
+*.csv
+*.h5
+*.xlsx
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store       # macOS
+Thumbs.db      # Windows
+
+# Log files
+*.log
+
+# Miscellaneous
+*.pkl          # Pickled files
+*.sqlite3      # SQLite database files
